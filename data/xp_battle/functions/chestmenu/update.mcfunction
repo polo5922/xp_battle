@@ -1,0 +1,1 @@
+function xp_battle:class/samurail/armor

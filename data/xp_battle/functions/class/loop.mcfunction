@@ -1,0 +1,1 @@
+execute as @a[scores={game=1}] at @s run function xp_battle:chestmenu/noinchest

@@ -1,0 +1,1 @@
+execute store result score items chest_menu run clear @s #cm:chest_menu{isMenu:1b} 0
